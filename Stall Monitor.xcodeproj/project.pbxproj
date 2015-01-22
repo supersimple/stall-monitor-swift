@@ -393,6 +393,7 @@
 				5FF1FAF01A69C2120097BAD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FF1FAF11A69C2120097BAD9 /* Build configuration list for PBXNativeTarget "Stall MonitorTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +402,7 @@
 				5FF1FAF31A69C2120097BAD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
