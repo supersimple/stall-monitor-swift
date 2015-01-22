@@ -20,7 +20,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     let icon = NSImage(named: "statusIcon")
     let iconOpen = NSImage(named: "statusIconOpen")
     
-    let url = NSURL(string: "http://supersimple.org/stallmonitor/status.html")!
+    let url = NSURL(string: "http://youwebservice.url/status")!
     
     var occupied = false;
     
